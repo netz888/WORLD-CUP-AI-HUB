@@ -16,7 +16,7 @@
 import { createRequire } from "node:module"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
-import { lambdasFromRanks } from "../../lib/prediction-v2.ts"
+import { lambdasFromRanks } from "./prediction-core.mjs"
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const require = createRequire(import.meta.url)
