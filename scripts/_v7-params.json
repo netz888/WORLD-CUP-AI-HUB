@@ -1,0 +1,16 @@
+{
+  "gdScale": 150,
+  "baseTotal": 3.2,
+  "homeAdv": 40,
+  "rho": -0.08,
+  "drawInflMax": 0.2,
+  "drawCloseScale": 120,
+  "parkBusMax": 0.9,
+  "parkBusGap": 150,
+  "blowoutGap": 160,
+  "blowoutTotalBoost": 1,
+  "blowoutSupBoost": 0.5,
+  "lambdaFloor": 0.2,
+  "formWeight": 12,
+  "h2hWeight": 0
+}

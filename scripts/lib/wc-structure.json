@@ -1,0 +1,1043 @@
+{
+  "generatedAt": "2026-06-18T04:22:21.025Z",
+  "note": "由 scripts/gen-wc-structure.mts 从 lib/data.ts 生成，请勿手改。重跑：npx tsx scripts/gen-wc-structure.mts",
+  "groups": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "hostCodes": [
+    "USA",
+    "MEX",
+    "CAN"
+  ],
+  "teams": [
+    {
+      "code": "MEX",
+      "rank": 14,
+      "group": "A"
+    },
+    {
+      "code": "CZE",
+      "rank": 40,
+      "group": "A"
+    },
+    {
+      "code": "RSA",
+      "rank": 60,
+      "group": "A"
+    },
+    {
+      "code": "KOR",
+      "rank": 25,
+      "group": "A"
+    },
+    {
+      "code": "CAN",
+      "rank": 30,
+      "group": "B"
+    },
+    {
+      "code": "BIH",
+      "rank": 64,
+      "group": "B"
+    },
+    {
+      "code": "QAT",
+      "rank": 56,
+      "group": "B"
+    },
+    {
+      "code": "SUI",
+      "rank": 19,
+      "group": "B"
+    },
+    {
+      "code": "BRA",
+      "rank": 6,
+      "group": "C"
+    },
+    {
+      "code": "HAI",
+      "rank": 83,
+      "group": "C"
+    },
+    {
+      "code": "MAR",
+      "rank": 7,
+      "group": "C"
+    },
+    {
+      "code": "SCO",
+      "rank": 42,
+      "group": "C"
+    },
+    {
+      "code": "USA",
+      "rank": 17,
+      "group": "D"
+    },
+    {
+      "code": "AUS",
+      "rank": 27,
+      "group": "D"
+    },
+    {
+      "code": "PAR",
+      "rank": 41,
+      "group": "D"
+    },
+    {
+      "code": "TUR",
+      "rank": 22,
+      "group": "D"
+    },
+    {
+      "code": "CUW",
+      "rank": 82,
+      "group": "E"
+    },
+    {
+      "code": "ECU",
+      "rank": 23,
+      "group": "E"
+    },
+    {
+      "code": "GER",
+      "rank": 10,
+      "group": "E"
+    },
+    {
+      "code": "CIV",
+      "rank": 33,
+      "group": "E"
+    },
+    {
+      "code": "NED",
+      "rank": 8,
+      "group": "F"
+    },
+    {
+      "code": "JPN",
+      "rank": 18,
+      "group": "F"
+    },
+    {
+      "code": "SWE",
+      "rank": 38,
+      "group": "F"
+    },
+    {
+      "code": "TUN",
+      "rank": 45,
+      "group": "F"
+    },
+    {
+      "code": "BEL",
+      "rank": 9,
+      "group": "G"
+    },
+    {
+      "code": "EGY",
+      "rank": 29,
+      "group": "G"
+    },
+    {
+      "code": "IRN",
+      "rank": 20,
+      "group": "G"
+    },
+    {
+      "code": "NZL",
+      "rank": 85,
+      "group": "G"
+    },
+    {
+      "code": "CPV",
+      "rank": 67,
+      "group": "H"
+    },
+    {
+      "code": "KSA",
+      "rank": 61,
+      "group": "H"
+    },
+    {
+      "code": "ESP",
+      "rank": 2,
+      "group": "H"
+    },
+    {
+      "code": "URU",
+      "rank": 16,
+      "group": "H"
+    },
+    {
+      "code": "FRA",
+      "rank": 3,
+      "group": "I"
+    },
+    {
+      "code": "NOR",
+      "rank": 31,
+      "group": "I"
+    },
+    {
+      "code": "SEN",
+      "rank": 15,
+      "group": "I"
+    },
+    {
+      "code": "IRQ",
+      "rank": 57,
+      "group": "I"
+    },
+    {
+      "code": "ALG",
+      "rank": 28,
+      "group": "J"
+    },
+    {
+      "code": "ARG",
+      "rank": 1,
+      "group": "J"
+    },
+    {
+      "code": "AUT",
+      "rank": 24,
+      "group": "J"
+    },
+    {
+      "code": "JOR",
+      "rank": 63,
+      "group": "J"
+    },
+    {
+      "code": "COL",
+      "rank": 13,
+      "group": "K"
+    },
+    {
+      "code": "COD",
+      "rank": 46,
+      "group": "K"
+    },
+    {
+      "code": "POR",
+      "rank": 5,
+      "group": "K"
+    },
+    {
+      "code": "UZB",
+      "rank": 50,
+      "group": "K"
+    },
+    {
+      "code": "CRO",
+      "rank": 11,
+      "group": "L"
+    },
+    {
+      "code": "ENG",
+      "rank": 4,
+      "group": "L"
+    },
+    {
+      "code": "GHA",
+      "rank": 73,
+      "group": "L"
+    },
+    {
+      "code": "PAN",
+      "rank": 34,
+      "group": "L"
+    }
+  ],
+  "fixtures": [
+    {
+      "group": "A",
+      "home": "MEX",
+      "away": "RSA",
+      "venueKey": "Mexico City",
+      "alt": 2240
+    },
+    {
+      "group": "A",
+      "home": "KOR",
+      "away": "CZE",
+      "venueKey": "Zapopan",
+      "alt": 1566
+    },
+    {
+      "group": "A",
+      "home": "CZE",
+      "away": "RSA",
+      "venueKey": "Atlanta",
+      "alt": 320
+    },
+    {
+      "group": "A",
+      "home": "MEX",
+      "away": "KOR",
+      "venueKey": "Zapopan",
+      "alt": 1566
+    },
+    {
+      "group": "A",
+      "home": "CZE",
+      "away": "MEX",
+      "venueKey": "Mexico City",
+      "alt": 2240
+    },
+    {
+      "group": "A",
+      "home": "RSA",
+      "away": "KOR",
+      "venueKey": "Guadalupe",
+      "alt": 500
+    },
+    {
+      "group": "B",
+      "home": "CAN",
+      "away": "BIH",
+      "venueKey": "Toronto",
+      "alt": 76
+    },
+    {
+      "group": "B",
+      "home": "QAT",
+      "away": "SUI",
+      "venueKey": "Santa Clara",
+      "alt": 4
+    },
+    {
+      "group": "B",
+      "home": "SUI",
+      "away": "BIH",
+      "venueKey": "Inglewood",
+      "alt": 30
+    },
+    {
+      "group": "B",
+      "home": "CAN",
+      "away": "QAT",
+      "venueKey": "Vancouver",
+      "alt": 3
+    },
+    {
+      "group": "B",
+      "home": "SUI",
+      "away": "CAN",
+      "venueKey": "Vancouver",
+      "alt": 3
+    },
+    {
+      "group": "B",
+      "home": "BIH",
+      "away": "QAT",
+      "venueKey": "Seattle",
+      "alt": 5
+    },
+    {
+      "group": "C",
+      "home": "BRA",
+      "away": "MAR",
+      "venueKey": "East Rutherford",
+      "alt": 7
+    },
+    {
+      "group": "C",
+      "home": "HAI",
+      "away": "SCO",
+      "venueKey": "Foxborough",
+      "alt": 90
+    },
+    {
+      "group": "C",
+      "home": "SCO",
+      "away": "MAR",
+      "venueKey": "Foxborough",
+      "alt": 90
+    },
+    {
+      "group": "C",
+      "home": "BRA",
+      "away": "HAI",
+      "venueKey": "Philadelphia",
+      "alt": 12
+    },
+    {
+      "group": "C",
+      "home": "SCO",
+      "away": "BRA",
+      "venueKey": "Miami Gardens",
+      "alt": 2
+    },
+    {
+      "group": "C",
+      "home": "MAR",
+      "away": "HAI",
+      "venueKey": "Atlanta",
+      "alt": 320
+    },
+    {
+      "group": "D",
+      "home": "USA",
+      "away": "PAR",
+      "venueKey": "Inglewood",
+      "alt": 30
+    },
+    {
+      "group": "D",
+      "home": "AUS",
+      "away": "TUR",
+      "venueKey": "Vancouver",
+      "alt": 3
+    },
+    {
+      "group": "D",
+      "home": "USA",
+      "away": "AUS",
+      "venueKey": "Seattle",
+      "alt": 5
+    },
+    {
+      "group": "D",
+      "home": "TUR",
+      "away": "PAR",
+      "venueKey": "Santa Clara",
+      "alt": 4
+    },
+    {
+      "group": "D",
+      "home": "TUR",
+      "away": "USA",
+      "venueKey": "Inglewood",
+      "alt": 30
+    },
+    {
+      "group": "D",
+      "home": "PAR",
+      "away": "AUS",
+      "venueKey": "Santa Clara",
+      "alt": 4
+    },
+    {
+      "group": "E",
+      "home": "GER",
+      "away": "CUW",
+      "venueKey": "Houston",
+      "alt": 15
+    },
+    {
+      "group": "E",
+      "home": "CIV",
+      "away": "ECU",
+      "venueKey": "Philadelphia",
+      "alt": 12
+    },
+    {
+      "group": "E",
+      "home": "GER",
+      "away": "CIV",
+      "venueKey": "Toronto",
+      "alt": 76
+    },
+    {
+      "group": "E",
+      "home": "ECU",
+      "away": "CUW",
+      "venueKey": "Kansas City",
+      "alt": 270
+    },
+    {
+      "group": "E",
+      "home": "CUW",
+      "away": "CIV",
+      "venueKey": "Philadelphia",
+      "alt": 12
+    },
+    {
+      "group": "E",
+      "home": "ECU",
+      "away": "GER",
+      "venueKey": "East Rutherford",
+      "alt": 7
+    },
+    {
+      "group": "F",
+      "home": "NED",
+      "away": "JPN",
+      "venueKey": "Arlington",
+      "alt": 180
+    },
+    {
+      "group": "F",
+      "home": "SWE",
+      "away": "TUN",
+      "venueKey": "Guadalupe",
+      "alt": 500
+    },
+    {
+      "group": "F",
+      "home": "NED",
+      "away": "SWE",
+      "venueKey": "Houston",
+      "alt": 15
+    },
+    {
+      "group": "F",
+      "home": "TUN",
+      "away": "JPN",
+      "venueKey": "Guadalupe",
+      "alt": 500
+    },
+    {
+      "group": "F",
+      "home": "JPN",
+      "away": "SWE",
+      "venueKey": "Arlington",
+      "alt": 180
+    },
+    {
+      "group": "F",
+      "home": "TUN",
+      "away": "NED",
+      "venueKey": "Kansas City",
+      "alt": 270
+    },
+    {
+      "group": "G",
+      "home": "BEL",
+      "away": "EGY",
+      "venueKey": "Seattle",
+      "alt": 5
+    },
+    {
+      "group": "G",
+      "home": "IRN",
+      "away": "NZL",
+      "venueKey": "Inglewood",
+      "alt": 30
+    },
+    {
+      "group": "G",
+      "home": "BEL",
+      "away": "IRN",
+      "venueKey": "Inglewood",
+      "alt": 30
+    },
+    {
+      "group": "G",
+      "home": "NZL",
+      "away": "EGY",
+      "venueKey": "Vancouver",
+      "alt": 3
+    },
+    {
+      "group": "G",
+      "home": "EGY",
+      "away": "IRN",
+      "venueKey": "Seattle",
+      "alt": 5
+    },
+    {
+      "group": "G",
+      "home": "NZL",
+      "away": "BEL",
+      "venueKey": "Vancouver",
+      "alt": 3
+    },
+    {
+      "group": "H",
+      "home": "ESP",
+      "away": "CPV",
+      "venueKey": "Atlanta",
+      "alt": 320
+    },
+    {
+      "group": "H",
+      "home": "KSA",
+      "away": "URU",
+      "venueKey": "Miami Gardens",
+      "alt": 2
+    },
+    {
+      "group": "H",
+      "home": "ESP",
+      "away": "KSA",
+      "venueKey": "Atlanta",
+      "alt": 320
+    },
+    {
+      "group": "H",
+      "home": "URU",
+      "away": "CPV",
+      "venueKey": "Miami Gardens",
+      "alt": 2
+    },
+    {
+      "group": "H",
+      "home": "CPV",
+      "away": "KSA",
+      "venueKey": "Houston",
+      "alt": 15
+    },
+    {
+      "group": "H",
+      "home": "URU",
+      "away": "ESP",
+      "venueKey": "Zapopan",
+      "alt": 1566
+    },
+    {
+      "group": "I",
+      "home": "FRA",
+      "away": "SEN",
+      "venueKey": "East Rutherford",
+      "alt": 7
+    },
+    {
+      "group": "I",
+      "home": "IRQ",
+      "away": "NOR",
+      "venueKey": "Foxborough",
+      "alt": 90
+    },
+    {
+      "group": "I",
+      "home": "FRA",
+      "away": "IRQ",
+      "venueKey": "Philadelphia",
+      "alt": 12
+    },
+    {
+      "group": "I",
+      "home": "NOR",
+      "away": "SEN",
+      "venueKey": "East Rutherford",
+      "alt": 7
+    },
+    {
+      "group": "I",
+      "home": "NOR",
+      "away": "FRA",
+      "venueKey": "Foxborough",
+      "alt": 90
+    },
+    {
+      "group": "I",
+      "home": "SEN",
+      "away": "IRQ",
+      "venueKey": "Toronto",
+      "alt": 76
+    },
+    {
+      "group": "J",
+      "home": "ARG",
+      "away": "ALG",
+      "venueKey": "Kansas City",
+      "alt": 270
+    },
+    {
+      "group": "J",
+      "home": "AUT",
+      "away": "JOR",
+      "venueKey": "Santa Clara",
+      "alt": 4
+    },
+    {
+      "group": "J",
+      "home": "ARG",
+      "away": "AUT",
+      "venueKey": "Arlington",
+      "alt": 180
+    },
+    {
+      "group": "J",
+      "home": "JOR",
+      "away": "ALG",
+      "venueKey": "Santa Clara",
+      "alt": 4
+    },
+    {
+      "group": "J",
+      "home": "ALG",
+      "away": "AUT",
+      "venueKey": "Kansas City",
+      "alt": 270
+    },
+    {
+      "group": "J",
+      "home": "JOR",
+      "away": "ARG",
+      "venueKey": "Arlington",
+      "alt": 180
+    },
+    {
+      "group": "K",
+      "home": "POR",
+      "away": "COD",
+      "venueKey": "Houston",
+      "alt": 15
+    },
+    {
+      "group": "K",
+      "home": "UZB",
+      "away": "COL",
+      "venueKey": "Mexico City",
+      "alt": 2240
+    },
+    {
+      "group": "K",
+      "home": "POR",
+      "away": "UZB",
+      "venueKey": "Houston",
+      "alt": 15
+    },
+    {
+      "group": "K",
+      "home": "COL",
+      "away": "COD",
+      "venueKey": "Zapopan",
+      "alt": 1566
+    },
+    {
+      "group": "K",
+      "home": "COL",
+      "away": "POR",
+      "venueKey": "Miami Gardens",
+      "alt": 2
+    },
+    {
+      "group": "K",
+      "home": "COD",
+      "away": "UZB",
+      "venueKey": "Atlanta",
+      "alt": 320
+    },
+    {
+      "group": "L",
+      "home": "ENG",
+      "away": "CRO",
+      "venueKey": "Arlington",
+      "alt": 180
+    },
+    {
+      "group": "L",
+      "home": "GHA",
+      "away": "PAN",
+      "venueKey": "Toronto",
+      "alt": 76
+    },
+    {
+      "group": "L",
+      "home": "ENG",
+      "away": "GHA",
+      "venueKey": "Foxborough",
+      "alt": 90
+    },
+    {
+      "group": "L",
+      "home": "PAN",
+      "away": "CRO",
+      "venueKey": "Toronto",
+      "alt": 76
+    },
+    {
+      "group": "L",
+      "home": "PAN",
+      "away": "ENG",
+      "venueKey": "East Rutherford",
+      "alt": 7
+    },
+    {
+      "group": "L",
+      "home": "CRO",
+      "away": "GHA",
+      "venueKey": "Philadelphia",
+      "alt": 12
+    }
+  ],
+  "knockout": [
+    {
+      "no": 73,
+      "stage": "R32",
+      "homeSeat": "A 组第 2",
+      "awaySeat": "B 组第 2",
+      "alt": 30
+    },
+    {
+      "no": 76,
+      "stage": "R32",
+      "homeSeat": "C 组第 1",
+      "awaySeat": "F 组第 2",
+      "alt": 15
+    },
+    {
+      "no": 74,
+      "stage": "R32",
+      "homeSeat": "E 组第 1",
+      "awaySeat": "A/B/C/D/F 组最佳第三",
+      "alt": 90
+    },
+    {
+      "no": 75,
+      "stage": "R32",
+      "homeSeat": "F 组第 1",
+      "awaySeat": "C 组第 2",
+      "alt": 500
+    },
+    {
+      "no": 78,
+      "stage": "R32",
+      "homeSeat": "E 组第 2",
+      "awaySeat": "I 组第 2",
+      "alt": 180
+    },
+    {
+      "no": 77,
+      "stage": "R32",
+      "homeSeat": "I 组第 1",
+      "awaySeat": "C/D/F/G/H 组最佳第三",
+      "alt": 7
+    },
+    {
+      "no": 79,
+      "stage": "R32",
+      "homeSeat": "A 组第 1",
+      "awaySeat": "C/E/F/H/I 组最佳第三",
+      "alt": 2240
+    },
+    {
+      "no": 80,
+      "stage": "R32",
+      "homeSeat": "L 组第 1",
+      "awaySeat": "E/H/I/J/K 组最佳第三",
+      "alt": 320
+    },
+    {
+      "no": 82,
+      "stage": "R32",
+      "homeSeat": "G 组第 1",
+      "awaySeat": "A/E/H/I/J 组最佳第三",
+      "alt": 5
+    },
+    {
+      "no": 81,
+      "stage": "R32",
+      "homeSeat": "D 组第 1",
+      "awaySeat": "B/E/F/I/J 组最佳第三",
+      "alt": 4
+    },
+    {
+      "no": 84,
+      "stage": "R32",
+      "homeSeat": "H 组第 1",
+      "awaySeat": "J 组第 2",
+      "alt": 30
+    },
+    {
+      "no": 83,
+      "stage": "R32",
+      "homeSeat": "K 组第 2",
+      "awaySeat": "L 组第 2",
+      "alt": 76
+    },
+    {
+      "no": 85,
+      "stage": "R32",
+      "homeSeat": "B 组第 1",
+      "awaySeat": "E/F/G/I/J 组最佳第三",
+      "alt": 3
+    },
+    {
+      "no": 88,
+      "stage": "R32",
+      "homeSeat": "D 组第 2",
+      "awaySeat": "G 组第 2",
+      "alt": 180
+    },
+    {
+      "no": 86,
+      "stage": "R32",
+      "homeSeat": "J 组第 1",
+      "awaySeat": "H 组第 2",
+      "alt": 2
+    },
+    {
+      "no": 87,
+      "stage": "R32",
+      "homeSeat": "K 组第 1",
+      "awaySeat": "D/E/I/J/L 组最佳第三",
+      "alt": 270
+    },
+    {
+      "no": 90,
+      "stage": "R16",
+      "homeSeat": "第 73 场胜者",
+      "awaySeat": "第 75 场胜者",
+      "alt": 15
+    },
+    {
+      "no": 89,
+      "stage": "R16",
+      "homeSeat": "第 74 场胜者",
+      "awaySeat": "第 77 场胜者",
+      "alt": 12
+    },
+    {
+      "no": 91,
+      "stage": "R16",
+      "homeSeat": "第 76 场胜者",
+      "awaySeat": "第 78 场胜者",
+      "alt": 7
+    },
+    {
+      "no": 92,
+      "stage": "R16",
+      "homeSeat": "第 79 场胜者",
+      "awaySeat": "第 80 场胜者",
+      "alt": 2240
+    },
+    {
+      "no": 93,
+      "stage": "R16",
+      "homeSeat": "第 83 场胜者",
+      "awaySeat": "第 84 场胜者",
+      "alt": 180
+    },
+    {
+      "no": 94,
+      "stage": "R16",
+      "homeSeat": "第 81 场胜者",
+      "awaySeat": "第 82 场胜者",
+      "alt": 5
+    },
+    {
+      "no": 95,
+      "stage": "R16",
+      "homeSeat": "第 86 场胜者",
+      "awaySeat": "第 88 场胜者",
+      "alt": 320
+    },
+    {
+      "no": 96,
+      "stage": "R16",
+      "homeSeat": "第 85 场胜者",
+      "awaySeat": "第 87 场胜者",
+      "alt": 3
+    },
+    {
+      "no": 97,
+      "stage": "QF",
+      "homeSeat": "第 89 场胜者",
+      "awaySeat": "第 90 场胜者",
+      "alt": 90
+    },
+    {
+      "no": 98,
+      "stage": "QF",
+      "homeSeat": "第 93 场胜者",
+      "awaySeat": "第 94 场胜者",
+      "alt": 30
+    },
+    {
+      "no": 99,
+      "stage": "QF",
+      "homeSeat": "第 91 场胜者",
+      "awaySeat": "第 92 场胜者",
+      "alt": 2
+    },
+    {
+      "no": 100,
+      "stage": "QF",
+      "homeSeat": "第 95 场胜者",
+      "awaySeat": "第 96 场胜者",
+      "alt": 270
+    },
+    {
+      "no": 101,
+      "stage": "SF",
+      "homeSeat": "第 97 场胜者",
+      "awaySeat": "第 98 场胜者",
+      "alt": 180
+    },
+    {
+      "no": 102,
+      "stage": "SF",
+      "homeSeat": "第 99 场胜者",
+      "awaySeat": "第 100 场胜者",
+      "alt": 320
+    },
+    {
+      "no": 103,
+      "stage": "3RD",
+      "homeSeat": "第 101 场负者",
+      "awaySeat": "第 102 场负者",
+      "alt": 2
+    },
+    {
+      "no": 104,
+      "stage": "FINAL",
+      "homeSeat": "第 101 场胜者",
+      "awaySeat": "第 102 场胜者",
+      "alt": 7
+    }
+  ],
+  "staticResults": {
+    "MEX-RSA": [
+      2,
+      0
+    ],
+    "KOR-CZE": [
+      2,
+      1
+    ],
+    "USA-PAR": [
+      4,
+      1
+    ],
+    "CAN-BIH": [
+      1,
+      1
+    ],
+    "QAT-SUI": [
+      1,
+      1
+    ],
+    "BRA-MAR": [
+      1,
+      1
+    ],
+    "HAI-SCO": [
+      0,
+      1
+    ],
+    "AUS-TUR": [
+      2,
+      0
+    ],
+    "GER-CUW": [
+      7,
+      1
+    ],
+    "CIV-ECU": [
+      1,
+      0
+    ],
+    "NED-JPN": [
+      2,
+      2
+    ]
+  }
+}
