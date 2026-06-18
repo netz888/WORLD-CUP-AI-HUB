@@ -41,6 +41,7 @@ const FREQ_LIVE = Number(process.env.POLL_LIVE_MS || 20_000)     // 赛中 20s
 const FREQ_PRE = Number(process.env.POLL_PRE_MS || 180_000)      // 赛前 3min
 const FREQ_IDLE = Number(process.env.POLL_IDLE_MS || 1_800_000)  // 无赛事 30min
 const PRE_WINDOW_MS = 3 * 3600 * 1000                            // 临赛前窗口 3h
+const KICKOFF_CONFIRM_MS = Number(process.env.POLL_KICKOFF_CONFIRM_MS || 10 * 60_000) // 开球后确认窗口 10min
 
 // —— 整届赛程同步：提前解析下一阶段对阵 ——
 // 每轮 tick 只看「昨天+今天」，故下一阶段对阵要到比赛当天才进窗口。
@@ -392,6 +393,7 @@ async function tick() {
 
   let anyLive = false
   let anyPreSoon = false
+  let anyKickoffConfirm = false
   let anyUpcoming = false
 
   for (const f of fixtures) {
@@ -454,6 +456,9 @@ async function tick() {
     } else {
       // 未开赛
       anyUpcoming = true
+      if (msToKick <= 0 && msToKick > -KICKOFF_CONFIRM_MS) {
+        anyKickoffConfirm = true
+      }
       if (msToKick > 0 && msToKick < PRE_WINDOW_MS) {
         anyPreSoon = true
         await pullLineup(matchKey, fid, hc, ac, short, nowIso) // 临赛前探首发（出了即入库）
@@ -467,6 +472,7 @@ async function tick() {
   // 决定下一轮频率
   let next, label
   if (anyLive) { next = FREQ_LIVE; label = "赛中" }
+  else if (anyKickoffConfirm) { next = FREQ_LIVE; label = "开球确认" }
   else if (anyPreSoon) { next = FREQ_PRE; label = "临赛前" }
   else if (anyUpcoming) { next = FREQ_PRE; label = "赛前" }
   else { next = FREQ_IDLE; label = "无赛事" }
@@ -479,7 +485,7 @@ process.on("SIGINT", () => { console.log("\n收到停止信号，退出。"); st
 process.on("SIGTERM", () => { stopped = true; process.exit(0) })
 
 async function loop() {
-  console.log(`poller 启动 → ${dbPath}\n频率：赛中 ${FREQ_LIVE / 1000}s / 赛前 ${FREQ_PRE / 1000}s / 无赛事 ${FREQ_IDLE / 1000}s`)
+  console.log(`poller 启动 → ${dbPath}\n频率：赛中 ${FREQ_LIVE / 1000}s / 开球确认 ${KICKOFF_CONFIRM_MS / 60000}min 内 ${FREQ_LIVE / 1000}s / 赛前 ${FREQ_PRE / 1000}s / 无赛事 ${FREQ_IDLE / 1000}s`)
   while (!stopped) {
     let wait = FREQ_PRE
     try { wait = await tick() } catch (e) { console.log("  ⚠ 轮次异常:", e.message) }
