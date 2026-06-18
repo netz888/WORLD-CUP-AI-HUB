@@ -1,0 +1,1601 @@
+{
+  "teams": {
+    "ALG": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "ARG": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "AUS": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "formGD": 2,
+      "recent": [
+        "W"
+      ],
+      "avgXgFor": 1.18,
+      "avgXgAgainst": 1.36,
+      "avgPossession": 28,
+      "avgShots": 9,
+      "statSamples": 1
+    },
+    "AUT": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "BEL": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 1.32,
+      "avgXgAgainst": 1.07,
+      "avgPossession": 54,
+      "avgShots": 15,
+      "statSamples": 1
+    },
+    "BIH": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 0.96,
+      "avgXgAgainst": 1.23,
+      "avgPossession": 39,
+      "avgShots": 8,
+      "statSamples": 1
+    },
+    "BRA": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 1.26,
+      "avgXgAgainst": 1.37,
+      "avgPossession": 51,
+      "avgShots": 12,
+      "statSamples": 1
+    },
+    "CAN": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 1.23,
+      "avgXgAgainst": 0.96,
+      "avgPossession": 61,
+      "avgShots": 13,
+      "statSamples": 1
+    },
+    "CIV": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "formGD": 1,
+      "recent": [
+        "W"
+      ],
+      "avgXgFor": 1.52,
+      "avgXgAgainst": 1.01,
+      "avgPossession": 48,
+      "avgShots": 15,
+      "statSamples": 1
+    },
+    "COD": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "COL": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "CPV": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 0.3,
+      "avgXgAgainst": 2.29,
+      "avgPossession": 26,
+      "avgShots": 6,
+      "statSamples": 1
+    },
+    "CRO": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "CUW": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 7,
+      "formGD": -6,
+      "recent": [
+        "L"
+      ],
+      "avgXgFor": 0.41,
+      "avgXgAgainst": 4.22,
+      "avgPossession": 35,
+      "avgShots": 8,
+      "statSamples": 1
+    },
+    "CZE": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 2,
+      "formGD": -1,
+      "recent": [
+        "L"
+      ],
+      "avgXgFor": 0.83,
+      "avgXgAgainst": 2.3,
+      "avgPossession": 38,
+      "avgShots": 7,
+      "statSamples": 1
+    },
+    "ECU": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "formGD": -1,
+      "recent": [
+        "L"
+      ],
+      "avgXgFor": 1.01,
+      "avgXgAgainst": 1.52,
+      "avgPossession": 52,
+      "avgShots": 12,
+      "statSamples": 1
+    },
+    "EGY": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 1.07,
+      "avgXgAgainst": 1.32,
+      "avgPossession": 46,
+      "avgShots": 14,
+      "statSamples": 1
+    },
+    "ENG": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "ESP": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 2.29,
+      "avgXgAgainst": 0.3,
+      "avgPossession": 74,
+      "avgShots": 27,
+      "statSamples": 1
+    },
+    "FRA": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "GER": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 7,
+      "goalsAgainst": 1,
+      "formGD": 6,
+      "recent": [
+        "W"
+      ],
+      "avgXgFor": 4.22,
+      "avgXgAgainst": 0.41,
+      "avgPossession": 65,
+      "avgShots": 26,
+      "statSamples": 1
+    },
+    "GHA": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "HAI": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 0,
+      "goalsAgainst": 1,
+      "formGD": -1,
+      "recent": [
+        "L"
+      ],
+      "avgXgFor": 1.05,
+      "avgXgAgainst": 1.05,
+      "avgPossession": 54,
+      "avgShots": 15,
+      "statSamples": 1
+    },
+    "IRN": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 1.5,
+      "avgXgAgainst": 1.24,
+      "avgPossession": 48,
+      "avgShots": 17,
+      "statSamples": 1
+    },
+    "IRQ": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "JOR": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "JPN": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 0.59,
+      "avgXgAgainst": 0.78,
+      "avgPossession": 40,
+      "avgShots": 10,
+      "statSamples": 1
+    },
+    "KOR": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 1,
+      "formGD": 1,
+      "recent": [
+        "W"
+      ],
+      "avgXgFor": 2.3,
+      "avgXgAgainst": 0.83,
+      "avgPossession": 62,
+      "avgShots": 15,
+      "statSamples": 1
+    },
+    "KSA": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 0.66,
+      "avgXgAgainst": 1.72,
+      "avgPossession": 33,
+      "avgShots": 7,
+      "statSamples": 1
+    },
+    "MAR": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 1.37,
+      "avgXgAgainst": 1.26,
+      "avgPossession": 49,
+      "avgShots": 14,
+      "statSamples": 1
+    },
+    "MEX": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 0,
+      "formGD": 2,
+      "recent": [
+        "W"
+      ],
+      "avgXgFor": 1.46,
+      "avgXgAgainst": 0.07,
+      "avgPossession": 61,
+      "avgShots": 16,
+      "statSamples": 1
+    },
+    "NED": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 0.78,
+      "avgXgAgainst": 0.59,
+      "avgPossession": 60,
+      "avgShots": 10,
+      "statSamples": 1
+    },
+    "NOR": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "NZL": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 2,
+      "goalsAgainst": 2,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 1.24,
+      "avgXgAgainst": 1.5,
+      "avgPossession": 52,
+      "avgShots": 14,
+      "statSamples": 1
+    },
+    "PAN": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "PAR": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 4,
+      "formGD": -3,
+      "recent": [
+        "L"
+      ],
+      "avgXgFor": 0.54,
+      "avgXgAgainst": 1.42,
+      "avgPossession": 35,
+      "avgShots": 9,
+      "statSamples": 1
+    },
+    "POR": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "QAT": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 0.6,
+      "avgXgAgainst": 3.2,
+      "avgPossession": 32,
+      "avgShots": 6,
+      "statSamples": 1
+    },
+    "RSA": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "formGD": -2,
+      "recent": [
+        "L"
+      ],
+      "avgXgFor": 0.07,
+      "avgXgAgainst": 1.46,
+      "avgPossession": 39,
+      "avgShots": 3,
+      "statSamples": 1
+    },
+    "SCO": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 0,
+      "formGD": 1,
+      "recent": [
+        "W"
+      ],
+      "avgXgFor": 1.05,
+      "avgXgAgainst": 1.05,
+      "avgPossession": 46,
+      "avgShots": 9,
+      "statSamples": 1
+    },
+    "SEN": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    },
+    "SUI": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 3.2,
+      "avgXgAgainst": 0.6,
+      "avgPossession": 68,
+      "avgShots": 26,
+      "statSamples": 1
+    },
+    "SWE": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 5,
+      "goalsAgainst": 1,
+      "formGD": 4,
+      "recent": [
+        "W"
+      ],
+      "avgXgFor": 1.36,
+      "avgXgAgainst": 0.28,
+      "avgPossession": 49,
+      "avgShots": 13,
+      "statSamples": 1
+    },
+    "TUN": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 1,
+      "goalsAgainst": 5,
+      "formGD": -4,
+      "recent": [
+        "L"
+      ],
+      "avgXgFor": 0.28,
+      "avgXgAgainst": 1.36,
+      "avgPossession": 51,
+      "avgShots": 6,
+      "statSamples": 1
+    },
+    "TUR": {
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "goalsFor": 0,
+      "goalsAgainst": 2,
+      "formGD": -2,
+      "recent": [
+        "L"
+      ],
+      "avgXgFor": 1.36,
+      "avgXgAgainst": 1.18,
+      "avgPossession": 72,
+      "avgShots": 30,
+      "statSamples": 1
+    },
+    "URU": {
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "goalsFor": 1,
+      "goalsAgainst": 1,
+      "formGD": 0,
+      "recent": [
+        "D"
+      ],
+      "avgXgFor": 1.72,
+      "avgXgAgainst": 0.66,
+      "avgPossession": 67,
+      "avgShots": 27,
+      "statSamples": 1
+    },
+    "USA": {
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 4,
+      "goalsAgainst": 1,
+      "formGD": 3,
+      "recent": [
+        "W"
+      ],
+      "avgXgFor": 1.42,
+      "avgXgAgainst": 0.54,
+      "avgPossession": 65,
+      "avgShots": 16,
+      "statSamples": 1
+    },
+    "UZB": {
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "goalsFor": 0,
+      "goalsAgainst": 0,
+      "formGD": 0,
+      "recent": [],
+      "avgXgFor": null,
+      "avgXgAgainst": null,
+      "avgPossession": null,
+      "avgShots": null,
+      "statSamples": 0
+    }
+  },
+  "prematch": {
+    "MEX-RSA": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0.4,
+        "kaEquiv": 0.4,
+        "absent": [
+          "O. Appollis"
+        ],
+        "stars": []
+      }
+    },
+    "KOR-CZE": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "CAN-BIH": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0.33,
+        "kaEquiv": 0.33,
+        "absent": [
+          "J. Nelson"
+        ],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "USA-PAR": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "QAT-SUI": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0.37,
+        "kaEquiv": 0.37,
+        "absent": [
+          "Almoez Ali"
+        ],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "BRA-MAR": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0.85,
+        "kaEquiv": 0.85,
+        "absent": [
+          "罗德里戈"
+        ],
+        "stars": [
+          {
+            "display": "维尼修斯",
+            "tier": 1,
+            "status": "首发"
+          },
+          {
+            "display": "罗德里戈",
+            "tier": 2,
+            "status": "未进名单"
+          }
+        ]
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "HAI-SCO": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0.73,
+        "kaEquiv": 0.73,
+        "absent": [
+          "D. Nazon",
+          "D. Lacroix"
+        ],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "AUS-TUR": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 1.2,
+        "kaEquiv": 1.2,
+        "absent": [
+          "J. Irvine",
+          "C. Goodwin",
+          "K. Yengi"
+        ],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 1.2,
+        "kaEquiv": 1.2,
+        "absent": [
+          "B. Yılmaz",
+          "C. Uzun"
+        ],
+        "stars": []
+      }
+    },
+    "GER-CUW": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": [
+          {
+            "display": "维尔茨",
+            "tier": 2,
+            "status": "首发"
+          },
+          {
+            "display": "穆西亚拉",
+            "tier": 1,
+            "status": "首发"
+          }
+        ]
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0.37,
+        "kaEquiv": 0.37,
+        "absent": [
+          "K. Gorré"
+        ],
+        "stars": []
+      }
+    },
+    "NED-JPN": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "CIV-ECU": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0.84,
+        "kaEquiv": 0.84,
+        "absent": [
+          "M. Godo"
+        ],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "SWE-TUN": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0.7,
+        "kaEquiv": 0.7,
+        "absent": [
+          "G. Nilsson",
+          "M. Svanberg"
+        ],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "ESP-CPV": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 1.08,
+        "kaEquiv": 1.08,
+        "absent": [
+          "亚马尔",
+          "奥尔莫",
+          "尼科·威廉姆斯"
+        ],
+        "stars": [
+          {
+            "display": "亚马尔",
+            "tier": 1,
+            "status": "替补待命"
+          },
+          {
+            "display": "佩德里",
+            "tier": 2,
+            "status": "首发"
+          },
+          {
+            "display": "罗德里",
+            "tier": 2,
+            "status": "首发"
+          },
+          {
+            "display": "奥尔莫",
+            "tier": 2,
+            "status": "替补待命"
+          },
+          {
+            "display": "尼科·威廉姆斯",
+            "tier": 2,
+            "status": "替补待命"
+          }
+        ]
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "BEL-EGY": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0.4,
+        "kaEquiv": 0.4,
+        "absent": [
+          "D. Lukebakio"
+        ],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0.38,
+        "kaEquiv": 0.38,
+        "absent": [
+          "Zizo"
+        ],
+        "stars": [
+          {
+            "display": "萨拉赫",
+            "tier": 1,
+            "status": "首发"
+          }
+        ]
+      }
+    },
+    "KSA-URU": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 1,
+        "kaEquiv": 1,
+        "absent": [
+          "Feras Al Brikan"
+        ],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0.33,
+        "kaEquiv": 0.33,
+        "absent": [
+          "N. de la Cruz"
+        ],
+        "stars": []
+      }
+    },
+    "IRN-NZL": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "FRA-SEN": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": [
+          {
+            "display": "姆巴佩",
+            "tier": 1,
+            "status": "首发"
+          }
+        ]
+      },
+      "coreAway": {
+        "hasData": true,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "IRQ-NOR": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "ARG-ALG": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "AUT-JOR": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "POR-COD": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "ENG-CRO": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "GHA-PAN": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "UZB-COL": {
+      "home": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "away": {
+        "games": 0,
+        "formGD": 0,
+        "recent": []
+      },
+      "coreHome": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "CZE-RSA": {
+      "home": {
+        "games": 1,
+        "formGD": -1,
+        "recent": [
+          "L"
+        ]
+      },
+      "away": {
+        "games": 1,
+        "formGD": -2,
+        "recent": [
+          "L"
+        ]
+      },
+      "coreHome": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "CAN-QAT": {
+      "home": {
+        "games": 1,
+        "formGD": 0,
+        "recent": [
+          "D"
+        ]
+      },
+      "away": {
+        "games": 1,
+        "formGD": 0,
+        "recent": [
+          "D"
+        ]
+      },
+      "coreHome": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    },
+    "SUI-BIH": {
+      "home": {
+        "games": 1,
+        "formGD": 0,
+        "recent": [
+          "D"
+        ]
+      },
+      "away": {
+        "games": 1,
+        "formGD": 0,
+        "recent": [
+          "D"
+        ]
+      },
+      "coreHome": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      },
+      "coreAway": {
+        "hasData": false,
+        "absentImp": 0,
+        "kaEquiv": 0,
+        "absent": [],
+        "stars": []
+      }
+    }
+  }
+}
