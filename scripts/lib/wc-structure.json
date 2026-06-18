@@ -994,50 +994,5 @@
       "alt": 7
     }
   ],
-  "staticResults": {
-    "MEX-RSA": [
-      2,
-      0
-    ],
-    "KOR-CZE": [
-      2,
-      1
-    ],
-    "USA-PAR": [
-      4,
-      1
-    ],
-    "CAN-BIH": [
-      1,
-      1
-    ],
-    "QAT-SUI": [
-      1,
-      1
-    ],
-    "BRA-MAR": [
-      1,
-      1
-    ],
-    "HAI-SCO": [
-      0,
-      1
-    ],
-    "AUS-TUR": [
-      2,
-      0
-    ],
-    "GER-CUW": [
-      7,
-      1
-    ],
-    "CIV-ECU": [
-      1,
-      0
-    ],
-    "NED-JPN": [
-      2,
-      2
-    ]
-  }
+  "staticResults": {}
 }

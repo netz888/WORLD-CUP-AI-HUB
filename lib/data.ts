@@ -868,20 +868,9 @@ function buildDetail(
   }
 }
 
-// 已开赛场次的真实比分（键为 "主队码-客队码"），数据来源：FIFA 官方 / Wikipedia
-export const RESULTS: Record<string, [number, number]> = {
-  "MEX-RSA": [2, 0],
-  "KOR-CZE": [2, 1],
-  "USA-PAR": [4, 1],
-  "CAN-BIH": [1, 1],
-  "QAT-SUI": [1, 1],
-  "BRA-MAR": [1, 1],
-  "HAI-SCO": [0, 1],
-  "AUS-TUR": [2, 0],
-  "GER-CUW": [7, 1],
-  "CIV-ECU": [1, 0],
-  "NED-JPN": [2, 2],
-}
+// 公开仓库默认不内置已结束比分。
+// 运行环境如需显示实时/历史赛果，应由 data/wc.db 与 poller 写入。
+export const RESULTS: Record<string, [number, number]> = {}
 
 // Build matches per group using the REAL 2026 World Cup schedule + REAL results.
 // "Now" reference 对齐真实进度：A–E 组首轮及荷兰vs日本已赛完，瑞典vs突尼斯(6/15)起尚未开赛。
