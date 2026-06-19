@@ -375,6 +375,7 @@ WORLD CUP AI HUB 的预测、概率、模拟和分析内容仅供娱乐、讨论
 
 ## 致谢
 
+- 本项目感谢 [LINUX DO](https://linux.do) 社区的支持与交流。
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
