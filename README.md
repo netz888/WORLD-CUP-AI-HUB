@@ -373,9 +373,35 @@ WORLD CUP AI HUB 的预测、概率、模拟和分析内容仅供娱乐、讨论
 
 外部 API 返回数据、第三方赛事资料、截图、图标和模型输入数据可能受各自来源的许可约束。代码协议不自动授予这些第三方数据的再分发权。
 
+## 🤝 友情链接
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://linux.do">
+        <img src="https://img.shields.io/badge/LINUX.DO-COMMUNITY-000000?style=for-the-badge&labelColor=333333&color=000000" alt="LINUX.DO Community" />
+      </a>
+    </td>
+    <td>
+      <a href="https://linux.do"><strong>LINUX.DO</strong></a><br />
+      真诚、友善、团结、专业，共建你我引以为荣之社区。
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://github.com/netz888/worldcup-deep-analysis">
+        <img src="https://img.shields.io/badge/GitHub-worldcup--deep--analysis-181717?style=for-the-badge&logo=github" alt="worldcup-deep-analysis" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/netz888/worldcup-deep-analysis"><strong>worldcup-deep-analysis</strong></a><br />
+      同源世界杯深度分析算法与训练参数项目。
+    </td>
+  </tr>
+</table>
+
 ## 致谢
 
-- 本项目感谢 [LINUX DO](https://linux.do) 社区的支持与交流。
 - [Next.js](https://nextjs.org/)
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
@@ -384,4 +410,3 @@ WORLD CUP AI HUB 的预测、概率、模拟和分析内容仅供娱乐、讨论
 - [football-data.org](https://www.football-data.org/)
 - FIFA 官方赛程与公开赛事资料
 - Wikipedia 等公开资料来源
-- 同源算法与训练思路参考：[`worldcup-deep-analysis`](https://github.com/netz888/worldcup-deep-analysis)
