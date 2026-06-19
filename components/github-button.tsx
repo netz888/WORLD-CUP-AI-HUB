@@ -38,9 +38,9 @@ export function GithubButton({
       <GithubMark className="h-4 w-4" />
       <span className="hidden sm:inline">GitHub</span>
       <span className="h-3 w-px bg-border" aria-hidden="true" />
-      <span className="flex items-center gap-1 text-muted-foreground">
+      <span className="inline-flex h-3.5 items-center gap-1 text-muted-foreground">
         <Star className="h-3.5 w-3.5 shrink-0 fill-primary text-primary" />
-        <span className="leading-none tabular-nums">{stars !== null ? formatStars(stars) : "Star"}</span>
+        <span className="block h-3.5 leading-[14px] tabular-nums">{stars !== null ? formatStars(stars) : "Star"}</span>
       </span>
     </a>
   )
